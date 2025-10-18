@@ -63,18 +63,6 @@ With over **8 years of professional experience**, I specialize in building scala
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iloveforhad&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iloveforhad&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iloveforhad&theme=tokyo-night" />
-</p>
-
----
 
 ### 🌍 Connect with Me  
 
@@ -85,6 +73,3 @@ With over **8 years of professional experience**, I specialize in building scala
   <a href="https://www.facebook.com/myforhad"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
 
----
-
-⭐ **“Code with purpose, design with clarity, and innovate with integrity.”**  
