@@ -57,8 +57,8 @@ With over **8 years of professional experience**, I specialize in building scala
 ---
 
 ### 🚀 Featured Projects  
-- 🔐 **[Fraud Guard](#)** — An intelligent fraud detection and digital security platform.  
-- 🤖 **[PlanPostAI](#)** — AI-powered automation for content and marketing workflows.  
+- 🔐 **[Fraud Guard](https://fraudguard.news/)** — An intelligent fraud detection and digital security platform.  
+- 🤖 **[PlanPostAI](https://planpostai.com/)** — AI-powered automation for content and marketing workflows.  
 - 📰 **[Bangla News Portal System](#)** — Scalable mobile and web news delivery system.  
 
 ---
