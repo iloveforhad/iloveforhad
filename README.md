@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/ilove_forhad/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/myforhad" target="_blank">
+  <a href="https://www.facebook.com/iloveforhad" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:iloveforhad@gmail.com">
